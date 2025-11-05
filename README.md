@@ -1,10 +1,18 @@
-# Stay secure. Stay ahead.
+## <img src="https://flagcdn.com/w20/gb.png" width="25"/> Stay secure. Stay ahead.
 
 ### Currently Focused On: Cybersecurity & DevOps  
 
-I'm diving deep into **Cybersecurity**, focusing on **Pentesting, Security Auditing, and DevOps Security**.
+Specializing in **Cybersecurity** with a focus on **Penetration Testing, Security Auditing, System Hardening, and Incident Response**.  
+My work centers on identifying vulnerabilities, enforcing security standards, and ensuring resilience across modern IT infrastructures.  
+With a strong foundation in DevOps and automation, I integrate security into every layer of system design and operations.
 
-Always exploring new security tools, methodologies, and best practices to strengthen digital defenses.
+<br>
+
+## <img src="https://flagcdn.com/w20/de.png" width="25"/> Sicherheit ist kein Zustand. Sie ist ein Prozess.
+
+### Aktueller Schwerpunkt: Cybersecurity & DevOps 
+
+Schwerpunktmäßig tätig im Bereich **Cybersecurity** mit den Kerngebieten **Penetration Testing, Security Auditing, Systemhärtung und Incident Response**. Mein Fokus liegt auf der **präventiven Identifikation von Schwachstellen**, der **Durchsetzung von Sicherheitsrichtlinien** und dem **Aufbau widerstandsfähiger IT-Infrastrukturen**. Durch fundierte Kenntnisse in **DevOps und Automatisierung** verankere ich Sicherheit konsequent in Entwicklungs- und Betriebsprozessen.
 <br>
 <br>
 ## Certificates
