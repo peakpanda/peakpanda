@@ -20,3 +20,7 @@ I'm diving deep into **Cybersecurity**, focusing on **Pentesting, Security Audit
 
 Always exploring new security tools, methodologies, and best practices to strengthen digital defenses.
 
+Certificates
+<br>
+<img src="https://images.credly.com/images/9180921d-4a13-429e-9357-6f9706a554f0/image.png" alt="javascript" width="50" height="50"/>
+- [ISC² Candidate](https://www.credly.com/badges/08c5d61a-4467-4713-8668-3410577f5a59/public_url)
