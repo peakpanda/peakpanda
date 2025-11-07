@@ -25,12 +25,6 @@ Schwerpunktmäßig tätig im Bereich **Cybersecurity** mit den Kerngebieten **Pe
 <br>
 <br>
 
-## Digitaler Ersthelfer im Cyber-Sicherheitsnetzwerk (CSN) <br>
-<a href="https://www.cyber-sicherheitsnetzwerk.de" title="Verweis zur Webpräsenz des Cyber-Sicherheitsnetzwerks"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwHTLFx8SKlWjEGw8ysajFY5Hv3nBTcwIRDQ&s" alt="Webpräsenz des CyberSicherheitsnetzwerks" /></a>
-
-<br>
-<br>
-
 ## Favorite Languages and Tools
 
 #### Cloud & Infrastructure
