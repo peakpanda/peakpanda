@@ -25,6 +25,10 @@ Schwerpunktmäßig tätig im Bereich **Cybersecurity** mit den Kerngebieten **Pe
 <br>
 <br>
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/01x.w0ts.png" alt="Your Image Badge" />
+
+<br>
+
 ## Favorite Languages and Tools
 
 #### Cloud & Infrastructure
