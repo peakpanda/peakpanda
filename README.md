@@ -23,7 +23,6 @@ Schwerpunktmäßig tätig im Bereich **Cybersecurity** mit den Kerngebieten **Pe
 - ISC² *(Certified in Cybersecurity - CC in progress)*
 
 <br>
-<br>
 
 <a href="https://tryhackme.com/p/0x9.w0ts"><img src="https://tryhackme-badges.s3.amazonaws.com/0x9.w0ts.png" alt="TryHackMe 0x9.w0ts Image Badge" /></a>
 
