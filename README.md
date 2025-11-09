@@ -24,7 +24,7 @@ Schwerpunktmäßig tätig im Bereich **Cybersecurity** mit den Kerngebieten **Pe
 
 <br>
 
-<a href="https://tryhackme.com/p/0x9.w0ts"><img src="https://tryhackme-badges.s3.amazonaws.com/0x9.w0ts.png" alt="TryHackMe 0x9.w0ts Image Badge" /></a>
+<a href="https://tryhackme.com/p/0x9.w0ts"><img src="https://tryhackme-badges.s3.amazonaws.com/0x9.w0ts.png" alt="Your Image Badge" /></a>
 
 ## Favorite Languages and Tools
 
