@@ -24,7 +24,7 @@ Schwerpunktmäßig tätig im Bereich **Cybersecurity** mit den Kerngebieten **Pe
 
 <br>
 
-<a href="https://tryhackme.com/p/0x3.w0ts"><img src="https://tryhackme-badges.s3.amazonaws.com/0x3.w0ts.png" alt="Your Image Badge" /></a>
+<a href="https://tryhackme.com/p/0x4.w0ts"><img src="https://tryhackme-badges.s3.amazonaws.com/0x4.w0ts.png" alt="Your Image Badge" /></a>
 
 ## Digitaler Ersthelfer im Cyber-Sicherheitsnetzwerk (CSN) des Bundesamtes für Sicherheit in der Informationstechnik (BSI) <br>
 <a href="https://www.cyber-sicherheitsnetzwerk.de" title="Verweis zur Webpräsenz des Cyber-Sicherheitsnetzwerks"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwHTLFx8SKlWjEGw8ysajFY5Hv3nBTcwIRDQ&s" alt="Webpräsenz des CyberSicherheitsnetzwerks" /></a>
